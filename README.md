@@ -1,9 +1,12 @@
 
-# COVID19-ARG-API
+<h1 align="center"> COVID19-ARG-API </h1>
+
+# 
 
 [<img src="https://img.shields.io/badge/Telegram-@CovidArg-blue.svg?logo=telegram">](https://t.me/joinchat/RsY-vlkIJwSo5xAJQldOPw)
 
 ### Data
+
 
 API desarrollada en flask para manipular base de datos MySQL con los datos de los informes oficiales del COVID19 del Ministerio de Salud Argentino.
 
@@ -32,8 +35,8 @@ Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.
 ("http://damianra.pythonanywhere.com/api/v1/province?prov=" + "Nombre de Provincia" (con mayusculas y espacios)) 
 -   Fechas de cuarentena: http://damianra.pythonanywhere.com/api/v1/cuarentena
 
-Nota1: El dataset de totales por provincia comienza desde el 29/03/2020 dia en que empezaron a mostrar estos datos recolectados.<br>
-Nota2: Con respecto al dataset, decidimos utilizar el seguimiento que comparte <a href="https://twitter.com/jorgeluisaliaga">Jorge Aliaga</a>, es mas completo de lo que veníamos recolectando y tiene mucha información. <a href="https://docs.google.com/spreadsheets/d/1M7uDgWSfy6z1MNbC9FP6jTNgvY7XchJ0m-BfW88SKtQ/edit?usp=sharing">link</a>
+Nota 1: El dataset de totales por provincia comienza desde el 29/03/2020 dia en que empezaron a mostrar estos datos recolectados.<br>
+Nota 2: Con respecto al dataset, decidimos utilizar el seguimiento que comparte <a href="https://twitter.com/jorgeluisaliaga">Jorge Aliaga</a>, es mas completo de lo que veníamos recolectando y tiene mucha información. <a href="https://docs.google.com/spreadsheets/d/1M7uDgWSfy6z1MNbC9FP6jTNgvY7XchJ0m-BfW88SKtQ/edit?usp=sharing">link</a>
 <br><br>
 Todos los datos de la API: <a href="http://damianra.pythonanywhere.com/dataset">Dataset</a>
 <br><br>
