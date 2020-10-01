@@ -1,7 +1,6 @@
 
 <h1 align="center"> COVID19-ARG-API </h1>
-
-# 
+ 
 
 [<img src="https://img.shields.io/badge/Telegram-@CovidArg-blue.svg?logo=telegram">](https://t.me/joinchat/RsY-vlkIJwSo5xAJQldOPw)
 
